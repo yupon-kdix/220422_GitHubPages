@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "懺悔"
 author: default
 permalink: /
 ---
