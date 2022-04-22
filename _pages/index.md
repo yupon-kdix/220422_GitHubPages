@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "huuuuuuuuuukyuu"
 author: default
 permalink: /
 ---
